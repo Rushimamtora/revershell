@@ -8,7 +8,7 @@
     {
         try
         {
-            using (TcpClient client = new TcpClient("15.207.99.160", 1234))
+            using (TcpClient client = new TcpClient("<your-IP-Address>", 1234))
             {
                 using (Stream stream = client.GetStream())
                 {
