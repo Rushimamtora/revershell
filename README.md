@@ -1,1 +1,1 @@
-Kindly Change File name, your IP and port number
+- Change the hostname and port number then execute the script
